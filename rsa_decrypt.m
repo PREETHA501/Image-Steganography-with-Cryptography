@@ -10,7 +10,7 @@ fclose(fileID);
 x=length(M);
 
 for j= 1:x
-   message(j)= decrypt(M(j),n,d); 
+   message(j)= encrypt(M(j),n,d); 
 end
 
 disp('Decrypted ASCII of Message:');
