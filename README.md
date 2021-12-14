@@ -9,3 +9,5 @@ Cryptography is the science of protecting information by transforming it into a 
 To enhance security, We combined both Techniques: Cryptography and Steganography. 
 A cryptographic algorithm, RSA is used to encrypt the secret message into ciphertext and vice versa. 
 A steganographic algorithm, the Least Significant Bit (LSB) technique is used to embed the message into the image.
+
+![image](https://user-images.githubusercontent.com/72308343/146029774-71270f70-1a2e-4835-b956-fb6139ebd717.png)
